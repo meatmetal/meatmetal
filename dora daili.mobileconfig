@@ -42,7 +42,7 @@
 		</dict>
 	</array>
 	<key>PayloadDisplayName</key>
-	<string>dora daili</string>
+	<string>dora代理</string>
 	<key>PayloadIdentifier</key>
 	<string>MacBook-Pro.2AF3E479-6B59-4C8E-90AE-DBEA428B6CEA</string>
 	<key>PayloadRemovalDisallowed</key>
@@ -50,7 +50,7 @@
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>91566838-56B7-406B-8BDB-E066ADE502F6</string>
+	<string>A4E95F44-89FE-41E8-B71C-FB13336E70DA</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
